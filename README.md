@@ -1,6 +1,6 @@
 # reyke_flutter_github
 
-Flutter Project For University
+Flutter Project For My Assignment
 
 ## Detail Project
 
